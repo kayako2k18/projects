@@ -1,0 +1,11 @@
+.block3 { 
+    width: 1366px;
+    height: 250px; 
+    background: #0000CD; 
+    font-size: 200%;
+    font-family: Arial, Verdana, sans-serif;
+    display: flex;
+   }
+p {
+    margin: auto;
+}
